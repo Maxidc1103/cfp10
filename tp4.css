@@ -12,7 +12,10 @@
 .fondo{
     background-color: rgb(224, 224, 224);
 }
-
+.piePagina{
+    
+    background-color: gold;
+}
 .socialMediaIcon{
     height: 3rem;
 }
