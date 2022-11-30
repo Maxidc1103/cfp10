@@ -12,3 +12,16 @@
 .fondo{
     background-color: rgb(224, 224, 224);
 }
+
+.socialMediaIcon{
+    height: 3rem;
+}
+.socialMedia{
+    list-style:none;
+}
+.socialMedia li{
+    display: inline-block;
+}
+.credits{
+    list-style:none;
+}
